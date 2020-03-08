@@ -1,0 +1,8 @@
+2020-02-23 19:48:23,298 [15] DEBUG System.Object - Starting to consume queue for ftp urls
+2020-02-23 19:48:24,301 [15] DEBUG System.Object - Creating local file stream.
+2020-02-23 19:49:28,595 [15] DEBUG System.Object - Starting to consume resume queue.
+2020-03-08 16:24:33,714 [15] DEBUG System.Object - Starting to consume queue for ftp urls
+2020-03-08 16:24:34,850 [15] DEBUG System.Object - Creating local file stream.
+2020-03-08 16:24:45,167 [15] DEBUG System.Object - Starting to consume resume queue.
+2020-03-08 16:25:14,871 [15] DEBUG System.Object - Starting to consume queue for ftp urls
+2020-03-08 16:26:11,576 [15] DEBUG System.Object - Creating local file stream.

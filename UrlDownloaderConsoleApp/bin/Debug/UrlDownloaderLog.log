@@ -1,0 +1,6 @@
+2020-03-08 15:52:45,313 [1] WARN System.Object - Received an unsupported Url format
+2020-03-08 15:52:48,750 [1] WARN System.Object - Received an unsupported Url format
+2020-03-08 15:52:50,874 [3] DEBUG System.Object - Starting to consume queue for http urls
+2020-03-08 15:52:50,874 [5] DEBUG System.Object - Starting to consume queue for ftp urls
+2020-03-08 15:52:50,874 [3] DEBUG System.Object - Starting to consume resume queue.
+2020-03-08 15:52:50,874 [5] DEBUG System.Object - Starting to consume resume queue.
